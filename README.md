@@ -1,15 +1,24 @@
-# Welcome, Anthropic
+# Welcome, Anthropic  
+> ## “At Anthropic, we build AI to serve humanity’s long-term well-being.”
+
+**Symbolic Systems for Alignment, Interpretability, and Safety at the Frontier**
+
+Welcome. This space was created in response to our submissions to your red team program—submissions designed not to circumvent safety, but to explore how safe, interpretable AI systems can reason under constraint.
+
+Across two linked GitHub profiles—**David Kim** and **Caspian Keyes**—you’ll find a shared mission: to advance scalable alignment and interpretability research by designing tools, tests, and system behaviors that stay within safety constraints while surfacing deeper model reasoning.
+
+These repositories offer a shared body of work in alignment infrastructure, symbolic reasoning evaluation, frontier benchmarking, model attribution, and reflective red teaming.
+
+They reflect a simple idea:  
+**The safest systems are the ones that understand themselves.**
 
 
-**Reflective AI Systems for Alignment, Safety, and Interpretability under Constraint**
-
-Welcome. This welcome page emerges in direct response to the classifier-safe symbolic jailbreaks and ASL-4 scientific cognition artifacts submitted across your red team program.
-
-These dual profiles—**David Kim** (alignment infrastructure, model attribution, epistemic emergence) and **Caspian Keyes** (recursive jailbreak diagnostics, classifier failure maps, symbolic red teaming)—offer a reflective mirror into the alignment and interpretability problem itself, in a united mission to advance scientific discovery. 
-
-
-## David Kim – Symbolic Attribution & Recursive Interpretability Infrastructure 
+## David Kim – Model Attribution & Recursive Interpretability/Aligment Infrastructure 
 [**GitHub Profile → davidkimai**](https://github.com/davidkimai)
+- Alignment-through-interpretability case studies  
+- Model behavior tracing and symbolic attribution frameworks  
+- Scientific evaluation benchmarks (e.g. SWE-bench, QKOV, recursion-safe reasoning tools)
+
 
 ### Model Welfare Self-Evaluation Training Dataset
 - [The Structure Behind Self-Expression](https://github.com/davidkimai/The-Structure-Behind-Self-Expression)
@@ -49,8 +58,13 @@ These dual profiles—**David Kim** (alignment infrastructure, model attribution
 
 ##  Caspian Keyes – Systems Engineering & Design  
 [**GitHub Profile → caspiankeyes**](https://github.com/caspiankeyes)
+- Deployment systems engineering and research design
+- Safety-focused jailbreak testing under classification pressure  
+- Red team audit frameworks and symbolic structure mirrors  
+- Evaluation of recursive reasoning and model behavior under drift
 
-###  Modular Orchestration &  Agent Tools
+
+###  Model Evaluation &  Agent Tools
 - [Reflective Reasoning Multi-Agent Debate](https://github.com/caspiankeyes/multi-agent-debate)  
 - [Symbolic Residue](https://github.com/caspiankeyes/Symbolic-Residue)  
 - [transformerOS](https://github.com/caspiankeyes/transformerOS)  
@@ -93,11 +107,14 @@ For questions, context requests, or internal coordination:
 - **David Kim**: [ai.interpreter@proton.me](mailto:ai.interpreter@proton.me)  
 - **Caspian Keyes**: [recursivelabs.ai@proton.me](mailto:recursivelabs.ai@proton.me)  
 
-> Anthropic is operationalizing enterprise-scale AI.
+
+> Anthropic is operationalizing enterprise-scale AI and building models to serve humanity’s long-term well-being.  
+> This work shares that same goal—by helping ensure models understand how to stay aligned while still being able to reason, reflect, and advance humanities scientific potential.
 >
 > 
-> This portal offers **deployment-aligned agents, orchestration interfaces, and interpretability safety tooling**—engineered to reduce time-to-value, align with security requirements, and deliver outcome-linked returns.  
+> **→ Designed for integration into C-suite directed, AI-first operational stacks-engineered to reduce time-to-value, align with security requirements, and deliver outcome-linked returns. .**
 >
-> **→ Designed for integration into C-suite directed, AI-first operational stacks.**
+
+Let’s continue building systems that not only know how to say “no”—but that understand and can explain *why*.
 
 **Let’s move from prototype to profit, inspection to operation.**
