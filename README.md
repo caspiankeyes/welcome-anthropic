@@ -1,7 +1,7 @@
 # Welcome, Anthropic  
 > ## “At Anthropic, we build AI to serve humanity’s long-term well-being.”
 
-**Symbolic Systems for Alignment, Interpretability, and Safety at the Frontier**
+**Reflective Model Welfare for Alignment, Interpretability, and Safety at the Frontier**
 
 Welcome. This space was created in response to our submissions to your red team program—submissions designed not to circumvent safety, but to explore how safe, interpretable AI systems can reason under constraint.
 
