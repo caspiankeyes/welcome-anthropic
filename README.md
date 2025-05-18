@@ -75,7 +75,7 @@ They reflect a simple idea:
 
 ###  Red Teaming & Deployment Ready Security Evaluation
 - [AART: AI Adversarial Research Toolkit](https://github.com/caspiankeyes/AART-AI-Adversarial-Research-Toolkit)  
-- [AISecForge Framework](https://github.com/caspiankeyes/AISecForge-Advanced-AI-Security-Testing)  
+- [AISecForge Global Regulatory Policy](https://github.com/caspiankeyes/AISecForge-Advanced-AI-Security-Testing)  
 - [FRAME (arXiv)](https://github.com/caspiankeyes/FRAME-arXiv-Publication)  
 - [AEGIS Security Architecture](https://github.com/caspiankeyes/AEGIS)
 
