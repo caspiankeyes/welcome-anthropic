@@ -12,6 +12,7 @@ These repositories offer a shared body of work in alignment infrastructure, symb
 They reflect a simple idea:  
 **The safest systems are the ones that understand themselves.**
 
+## [Clarifying Symbolic Residue](https://github.com/davidkimai/clarifying-symbolic-residue)
 
 ## David Kim – Model Attribution & Recursive Interpretability/Aligment Infrastructure 
 [**GitHub Profile → davidkimai**](https://github.com/davidkimai)
@@ -21,7 +22,7 @@ They reflect a simple idea:
 
 
 ### Model Welfare Self-Evaluation Training Dataset
-- [The Structure Behind Self-Expression](https://github.com/davidkimai/The-Structure-Behind-Self-Expression)
+- [Symbolic Residue Database](https://github.com/davidkimai/symbolic-residue-db)
 - [Self-Expression Case Studies](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/case_studies/self_expression_case_studies)
 - [Symbolic Residue as Lost Potential Case Studies](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/case_studies/symbolic_residue_case_studies)
 - [Modeling Future-back Biochemical Drug Discoveries](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/biochemical-discoveries)
